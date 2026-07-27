@@ -30,10 +30,7 @@ Many commercial calorie trackers are bloated with unnecessary features, require 
 
 To run and test the application locally, follow these steps:
 
-    Clone the repository to your local machine:
-    Bash
-
-    git clone https://github.com/your-username/your-repo-name.git
+    Please Visit ” https://github.com/jferr006/MDC-Nutrition-Calorie-Tracker/tree/main ” to access all necessary documentation.
 
     Open the project directory inside Visual Studio Code (or your preferred Java IDE).
 
