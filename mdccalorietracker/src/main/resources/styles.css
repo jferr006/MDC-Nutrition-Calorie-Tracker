@@ -1,0 +1,33 @@
+.root {
+    -fx-font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+.nav-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: rgba(255, 255, 255, 0.7);
+    -fx-font-weight: bold;
+    -fx-font-size: 13px;
+    -fx-cursor: hand;
+}
+
+.nav-button:hover {
+    -fx-text-fill: white;
+    -fx-background-color: rgba(255, 255, 255, 0.15);
+}
+
+.text-field {
+    -fx-background-color: #f8f9fc;
+    -fx-border-color: #dde2ef;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 8;
+}
+
+.text-field:focused {
+    -fx-border-color: #0032A0;
+    -fx-background-color: #ffffff;
+}
+
+.progress-bar > .bar {
+    -fx-background-color: #0032A0;
+}

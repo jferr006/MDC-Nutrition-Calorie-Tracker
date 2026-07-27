@@ -1,0 +1,7 @@
+com\example\mdc\MainApp.class
+com\example\mdc\Launcher.class
+com\example\mdc\Main.class
+com\example\mdc\dao\FoodDao.class
+com\example\mdc\Database.class
+com\example\mdc\model\FavoriteFood.class
+com\example\mdc\model\FoodLog.class
