@@ -51,3 +51,7 @@ To run and test the application locally, follow these steps:
     Calendar History Tracker: Implement a historical log enabling users to review past daily calorie intakes over weeks or months.
 
     Statistical Data Analysis: Integrate charts and data analytics to provide actionable insights into macronutrient distribution and eating trends.
+
+Video Link for Project Demonstration Video
+
+https://youtu.be/AbYMsg0kfNY
