@@ -1,6 +1,8 @@
 Miami-Dade College Calorie Nutrition Tracker
 
 A lightweight, free, and intuitive desktop software application designed specifically to help students track and manage their daily calorie intake, maintain balanced nutrition, and build consistent health habits amidst demanding academic schedules.
+
+
 📌 Project Overview
 
 Many commercial calorie trackers are bloated with unnecessary features, require paid subscriptions, or lack simplicity. Developed as a dedicated tool for Miami-Dade College, this application provides a streamlined, accessible solution without financial or technical barriers, empowering students to maintain the energy levels required for academic success.
